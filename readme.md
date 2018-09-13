@@ -8,4 +8,4 @@
 
 Готовые файлы для [сервера](server) и [клиента](client).
 
-## [Скачать](archive/master.zip)
+## [Скачать](https://github.com/beeyev/1c-Over-RDP-to-Excel-Copy-And-Paste-Fix/archive/master.zip)
